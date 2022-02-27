@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons in Parliament: with the additionall reasons, last presented to His Maiestie. Sabbathi 12 Martij. 1641. Ordered by the Lords and Commons in Parliament assembled, that the declaration, with the additional reasons last presented to his Majesty, shall be forthwith printed and published. Io. Browne, Cleric. Parl. H. Elsynge, Cler. Parl. D. Com. Whereunto is annexed, His Majesties speech to the committe, the 9 of March, 1641. when they presented the declaration of both Houses of Parliament at New-market.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82730</idno>
+            <idno type="STC">Wing E1483</idno>
+            <idno type="STC">Thomason E138_20</idno>
+            <idno type="STC">ESTC R13092</idno>
+            <idno type="EEBO-CITATION">99859409</idno>
+            <idno type="PROQUEST">99859409</idno>
+            <idno type="VID">111485</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82730)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111485)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E138[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons in Parliament: with the additionall reasons, last presented to His Maiestie. Sabbathi 12 Martij. 1641. Ordered by the Lords and Commons in Parliament assembled, that the declaration, with the additional reasons last presented to his Majesty, shall be forthwith printed and published. Io. Browne, Cleric. Parl. H. Elsynge, Cler. Parl. D. Com. Whereunto is annexed, His Majesties speech to the committe, the 9 of March, 1641. when they presented the declaration of both Houses of Parliament at New-market.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I). aut</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ioseph Hunscott,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111485:1"/>
+            <pb facs="tcp:111485:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE Lords and Commons IN PARLIAMENT: With the Additionall Reaſons, laſt preſented to His MAIESTIE.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Sabbathi 12 Martij.
+1641.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered by the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment aſſembled, That the Declaration, with the Additionall Reaſons laſt preſented to His Majeſty, ſhall be forthwith Printed and pub<g ref="char:EOLhyphen"/>liſhed.</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>Io. Browne, Cleric. Parl.</item>
+                                 <item>H. Elſynge, Cler. Parl. D. Com.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Whereunto is annexed, His Majeſties Speech to the Committe, the
+9 of <hi>March,</hi> 1641. when they preſented the Declaration of both Houſes of Parliament at <hi>New-market.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Ioſeph Hunſcott,</hi>
+1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:111485:2"/>
+            <pb n="3" facs="tcp:111485:2"/>
+            <head>The Declaration.</head>
+            <opener>
+               <salute>May it pleaſe your Majestie;</salute>
+            </opener>
+            <p>ALthough the Expreſſions in your Majeſties Meſſage of the ſecond of this inſtant March, do give juſt cauſe of ſorrow to us your faith<g ref="char:EOLhyphen"/>full Subjects, the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment, yet it is not without ſome mixture of confi<g ref="char:EOLhyphen"/>dence and hope, conſidering they proceeded from the miſ-apprehenſion of our Actions and Intenti<g ref="char:EOLhyphen"/>ons, which having no ground of Truth or Reality, may by your Majeſties Juſtice and Wiſdom be remo<g ref="char:EOLhyphen"/>ved when your Majeſtie ſhalbe fully informed, that thoſe fears and jealouſies of ours, which your Ma<g ref="char:EOLhyphen"/>jeſtie thinks to be cauſleſſe, and without any juſt ground, do neceſſarily and clearly ariſe from thoſe dangers and diſtempers, into which the miſchievous and evill Counſels about you have brought this Kingdom; And that thoſe other fears and jealou<g ref="char:EOLhyphen"/>ſies, by which your favour, your Royall Preſence, and confidence have been withdrawn from your Parliament, have no foundation or ſubſiſtance in any action, intention, or miſcarriage of ours, but are
+<pb n="4" facs="tcp:111485:3"/>meerly grounded upon the falſhood and malice of thoſe, who, for the ſupporting and fomenting their own wicked deſigns, againſt the Religion and Peace of the Kingdom, do ſeek to deprive your Majeſtie of the Strength and Affection of your People, them of your Grace and Protection, and thereby to ſub<g ref="char:EOLhyphen"/>ject both your Royall Perſon, and the whole King<g ref="char:EOLhyphen"/>dom to ruine and deſtruction.</p>
+            <p>To ſatisfie your Majeſties judgement and Con<g ref="char:EOLhyphen"/>ſcience in both theſe points, we deſire to make a clear and free Declaration of the cauſes of our fears and jealouſies, which we offer to your Majeſtie. in theſe particulars:</p>
+            <p n="1">1. That the deſign of altering Religion in this, and in your other Kingdoms, hath been potently carried on by thoſe in greateſt Authority about you for divers yeers together, the Queens Agent at
+<hi>Rome,</hi> and the Popes Agent or Nuncio here, are not onely evidences of this deſign, but have been great Actors in it.</p>
+            <p n="2">2. That the War with <hi>Scotland</hi> was procured to make way for this intent, and chiefly invited and fo<g ref="char:EOLhyphen"/>mented by the Papiſts, and others popiſhly affected, whereof we have many evidences, eſpecially their free and generall contribution to it.</p>
+            <p n="3">3. That the Rebellion in <hi>Ireland</hi> was framed and contrived here in <hi>England,</hi> and that the Engliſh Pa<g ref="char:EOLhyphen"/>piſts ſhould have riſen about the ſame time, we have ſeverall teſtimonies, and advertiſements from <hi>Ireland;</hi> and that it is a common ſpeech amongſt the Rebels, wherewith concur other Evidences and obſervations of the ſuſpitions, meetings, and con<g ref="char:EOLhyphen"/>ſultations,<pb n="5" facs="tcp:111485:3"/>the tumultuary and ſeditious carriage of thoſe of that Religion in divers parts of this King<g ref="char:EOLhyphen"/>dom, about the time of the breaking out of the Iriſh Rebellion; The depoſition of <hi>O Connelly,</hi> the Infor<g ref="char:EOLhyphen"/>mation of M<hi rend="sup">r</hi>. <hi>Cole</hi> Miniſter, the Letter of <hi>Treſtram Whitcombe,</hi> the depoſition of
+<hi>Thomas Crant,</hi> and many others which we may produce, do all agree in this. The publike Declaration of the Lords, Gentlemen, and others of the Pale, that they would joyn with the Rebels, whom they call the Iriſh Army, or any other, to recover unto His Majeſtie His Royall Pre<g ref="char:EOLhyphen"/>rogative, wreſted from him by the Puritan faction in the Houſes of Parliament in <hi>England,</hi> and to main<g ref="char:EOLhyphen"/>tain the ſame againſt all others, as alſo to maintain Epiſcopall Juriſdiction, and the lawfulneſſe thereof; theſe two being the Quarrels, upon which His Ma<g ref="char:EOLhyphen"/>jeſties late Army in the North ſhould have been in<g ref="char:EOLhyphen"/>cenſt againſt us.</p>
+            <p>The great cauſe we have to doubt that that late deſign ſtiled, <hi>The Queens pious intention,</hi> was for the alteration of Religion in this Kingdom; for ſucceſſe whereof, the Popes Nuncio, the Count <hi>Roſetti</hi> in<g ref="char:EOLhyphen"/>joyned Faſting and Praying to be obſerved every Week by the Engliſh Papiſts; which appeared to us by one of the Originall Letters, directed by him to a Prieſt in <hi>Lancaſhire.</hi>
+            </p>
+            <p>The boldneſſe of the <hi>Iriſh</hi> Rebells, in affirming they do nothing, but by Authority from the King; That they call themſelves the Queens Army: That the prey or booty which they take from the
+<hi>Engliſh,</hi> they mark with the Queens Mark: That their pur<g ref="char:EOLhyphen"/>poſe was to come to <hi>England,</hi> after they had done<pb n="6" facs="tcp:111485:4"/>in
+<hi>Ireland,</hi> and ſundry other things of this kinde, proved by <hi>O Connelli,</hi> and divers others, eſpecially in the fore-mentioned Letter from <hi>Treſtram White<g ref="char:EOLhyphen"/>combe,</hi> the Major of <hi>Kinſale,</hi> to his Brother <hi>Benjamin Whitecombe,</hi> wherein there is this paſſage, That ma<g ref="char:EOLhyphen"/>ny other ſtrange ſpeeches they utter, about Religi<g ref="char:EOLhyphen"/>on, and our Court of
+<hi>England,</hi> which he dares not commit to paper.</p>
+            <p>The manifold attempts to provoke Your Majeſties late Army, and the Army of the <hi>Scots,</hi> and to raiſe a faction in the City of
+<hi>London,</hi> and other parts of the Kingdom: That thoſe who have been Actors in thoſe buſineſſes, have had their dependance, their countenance, and encouragement from the Court; Witneſſe the Treaſon whereof Maſter <hi>Iermyn</hi> and others ſtand accuſed, who was tranſported beyond Sea by Warrant, under Your Majeſties Hand, after Your Majeſty had given Aſſurance to Your Parlia<g ref="char:EOLhyphen"/>ment, that Your Majeſty had laid a ſtrict command upon all your Servants, that none of them ſhould depart from Court: And that dangerous Petition, deliverd to Captain
+<hi>Legg</hi> by your Majeſties own Hand, accompanied with a Direction, Signed with <hi>C. R.</hi>
+            </p>
+            <p>The falſe and ſcandalous accuſation againſt the Lord
+<hi>Kymbolton,</hi> and the five Members of the Houſe of Commons, tendred to the Parliament by your Majeſties own Command, endeavoured to be juſti<g ref="char:EOLhyphen"/>fied in the City, by your own preſence and perſwa<g ref="char:EOLhyphen"/>ſion, and to be put in execution upon their perſons, by your Majeſties demand of them in the Houſe of Commons, in ſo terrible and violent a manner, as<pb n="7" facs="tcp:111485:4"/>farre exceeded all former breaches of Priviledges of Parliament, acted by your Majeſty, or any of your Predeceſſors: And whatſoever your own in<g ref="char:EOLhyphen"/>tentions were, divers bloody and deſperate perſons which attended your Majeſty, diſcovered their affe<g ref="char:EOLhyphen"/>ctions and reſolutions to have Maſſacred and de<g ref="char:EOLhyphen"/>ſtroyed the Members of that Houſe, if the abſence of thoſe perſons accuſed had not, by Gods providence, ſtopt the giving of that word which they expected, for the ſetting them upon that barbarous and bloody act: The Liſting of ſo many Officers, Soul<g ref="char:EOLhyphen"/>diers, and others, putting them into pay, and under command of Colonells, feaſting and carreſſing them in an unuſuall manner, at <hi>White-hall,</hi> thereby main<g ref="char:EOLhyphen"/>taining them in the violent aſſaults, and other inju<g ref="char:EOLhyphen"/>ries which they offered to divers of your Subjects, coming that way in a lawfull and peaceable man<g ref="char:EOLhyphen"/>ner: the carrying them out of Town; after which they were told by the Lord
+<hi>Digby,</hi> That the King removed on purpoſe, that they might not be tramp<g ref="char:EOLhyphen"/>led in the durt: And keeping them ſo long in pay, endeavouring to ingage the Gentlemen of the Innes of Court, in the ſame courſe: The plotting and de<g ref="char:EOLhyphen"/>ſigning of a perpetuall Guard about your Majeſty: The labouring to infuſe into your Majeſties Subjects an evill opinion of the Parliament, thorow the whole Kingdom, and other Symptomes of a diſpo<g ref="char:EOLhyphen"/>ſition of rayſing Arms, and dividing your people by a Civill Warre; in which combuſtion, <hi>Ireland</hi> muſt needs be loſt, and this Kingdom miſerably waſted and conſumed, if not wholly ruined and de<g ref="char:EOLhyphen"/>ſtroyed.</p>
+            <p>
+               <pb n="8" facs="tcp:111485:5"/>That after a Vote had paſſed in the Houſe of Com<g ref="char:EOLhyphen"/>mons, declaring, That the Lord <hi>Digby</hi> had appeared in a warlike manner at <hi>Kingſton</hi> upon <hi>Thames,</hi> to the terror and fright of your Majeſties good Subjects, and diſturbance of the publike peace of the King<g ref="char:EOLhyphen"/>dom; and that therefore the Lords ſhould be mo<g ref="char:EOLhyphen"/>ved to require his attendance, he ſhould, neverthe<g ref="char:EOLhyphen"/>leſſe, be of that credit with your Majeſty, as to be ſent away by your own Warrant to Sir <hi>Iohn Fenning<g ref="char:EOLhyphen"/>ton,</hi> to Land him beyond rhe Sea; from whence he vented his own Trayterous conceptions, That your Majeſty ſhould declare your ſelf, and retire to a place of ſtrength in this Kingdom, as if your Maje<g ref="char:EOLhyphen"/>ſty could not be fafe among your people: And withall took that tranſcendent boldneſſe to write to the Queen, offering to entertain correſpondency with her Majeſty by Cyphers, intimating ſome ſer<g ref="char:EOLhyphen"/>vice which he might do in thoſe Parts; for which, he deſired your Majeſties inſtructions, whereby in probability, he intended the procuring of ſome for<g ref="char:EOLhyphen"/>raign force to ſtrengthen your Majeſty, in that con<g ref="char:EOLhyphen"/>dition into which he would have brought you: Which falſe and malicious counſell and advice, we have great cauſe to doubt, made too deep an Impreſ<g ref="char:EOLhyphen"/>ſion in your Majeſty, conſidering the courſe you are pleaſed to take, of abſenting your ſelf from your Parliament, and carrying the Prince with you, which ſeems to expreſſe a purpoſe in your Majeſty, to keep your ſelf in a readineſſe for the acting of it.</p>
+            <p>
+               <pb n="10" facs="tcp:111485:5"/>The manifold Aduertiſements which we have had from <hi>Rome, Venice, Paris,</hi> and other parts, that they ſtill expect that your Majeſtie has ſome great deſigne in hand, for the altering of Religion, the breaking the neck of your Parliament: That you will yet finde meanes to compaſſe that deſigne, that the Popes <hi>Nuncio</hi> hath ſollicited the Kings of <hi>France</hi> and <hi>Spaine</hi> to lend your Majeſtie foure thouſand men a<g ref="char:EOLhyphen"/>piece to helpe to maintain your Royaltie againſt the Parliament: And this forraign force as it is the moſt pernicious and malignant deſigne of all the reſt, ſo we hope it is and ſhall alwayes bee fartheſt from your Majeſties thoughts, becauſe no man can beleeve you will give up your people and Kingdome to bee ſpoy<g ref="char:EOLhyphen"/>led by ſtrangers, if you did not likewiſe intend to change both your owne profeſſion in Religion, and the publique profeſſion of the Kingdome, that ſo you might ſtill be more aſſured of thoſe forraign States of the Popiſh Religion, for your future ſuport and defence:</p>
+            <p>Theſe are ſome of the grounds of our feares and Iealouſies which made us ſo erneſtly to implore your royall Authoritie and protection for our defence and ſecuritie, in all the wayes of Humilitie and ſubmiſion, which being denied by your Majeſtie ſeduſed by evill Counſell, wee doe with ſorrow for the great and ina<g ref="char:EOLhyphen"/>voydable miſerie and danger, which thereby is like to fall upon your owne perſon, and your Kingdomes apply our ſelves to the uſe of that power for the ſecu<g ref="char:EOLhyphen"/>ritie and defence of both, which by the fundamentall Lawes and Conſtitutions of this Kingdome reſides in us, yet ſtill reſoluing to keepe our ſelves within<pb n="10" facs="tcp:111485:6"/>the bounds of faithfulneſſe and allegeance to your ſacred Perſon and your Crown, ſo as to the ſecond ſort of jealouſies and fears of us, expreſt by your Majeſtie, we ſhall give a ſhorter, but as true, and as faithfull an Anſwer.</p>
+            <p>Whereas Your Majeſty is pleaſed to ſay that for your reſidence neer the Parliament, you wiſh it might be ſo ſafe, and honourable, that you had no cauſe to abſent your ſelf from
+<hi>Whitehall;</hi> This we take as the greateſt breach of Priviledge of Parlia<g ref="char:EOLhyphen"/>ment that can be offered; As the heavieſt miſery to your ſelf, and imputation upon us that can be imagi<g ref="char:EOLhyphen"/>ned, And the moſt miſchievous effect of evill Councells; it roots up the ſtrongeſt foundation of the ſafety and honour which your Crown affords; It ſeems as much as may be, to caſt upon the Parlia<g ref="char:EOLhyphen"/>ment, ſuch a charge, as is inconſiſtent with the na<g ref="char:EOLhyphen"/>ture of that great Councell, being the body where<g ref="char:EOLhyphen"/>of your Majeſty is the head; it ſtrikes at the very being, both of King, and Parliament; depriving your Majeſty in your own apprehenſion of their fidelity, and them of your protection, which are the mutuall bands and ſupports of Government, and Subjection.</p>
+            <p>We have according to your Majeſties deſire, laid our hands upon our hearts, we have askt our ſelves in the ſtricteſt examination of our Conſciences; we have ſearcht our affections, our thoughts, con<g ref="char:EOLhyphen"/>ſidered our Actions, and we finde none that can give your Majeſtie any juſt occaſion to abſent your ſelf from <hi>Whitehall,</hi> and the Parliament; but that you may with more honour and ſafety, continue there then in any other place.</p>
+            <p>
+               <pb n="11" facs="tcp:111485:6"/>Your Majeſty layes a generall taxe upon us; If you will be gratiouſly pleaſed to let us know the particulars, we ſhall give a cleer and ſatisfactory Anſwer: But what hope can we have of ever giving your Majeſty ſatisfaction, when thoſe particulars which you have been made beleeve were true, yet being produced and made known to us, appeared to be falſe; and your Majeſty notwithſtanding, will neither puniſh, nor produce the Authors, but go on to contract new jealouſies and fears, upon generall and uncertain grounds, affording us no means or poſsibility of particular Anſwer, to the cleering of our ſelves; For proof whereof, we be<g ref="char:EOLhyphen"/>ſeech your Majeſty to conſider theſe Inſtances.</p>
+            <p>The Speeches alleadged to be ſpoken in a meeting of divers Members of both Houſes at <hi>Kenſington,</hi> concerning a purpoſe of reſtraining the Queen and Prince, which after it was denyed, and diſavowed, yet your Majeſty refuſed to name the Authors, though humbly deſired by both Houſes.</p>
+            <p>The report of Articles framed againſt the Queens Majeſty, given out by ſome of neer relation to the Court; but when it was publikely, and conſtantly diſclaimed, the credit ſeemed to be withdrawn from it; but the Authors being kept ſafe, will al<g ref="char:EOLhyphen"/>wayes be ready for exploits of the ſame kinde, wherewith your Majeſty, and the Queen, will be often troubled, if this courſe be taken to cheriſh and ſecure them in ſuch wicked and malicious ſlanders.</p>
+            <p>The heavy charge and accuſation of the Lord <hi>Kimbolton,</hi> and the five Members of the Houſe of<pb n="12" facs="tcp:111485:7"/>Commons, who refuſed no tryall or examination, which might ſtand with the Priviledge of Parlia<g ref="char:EOLhyphen"/>ment; yet no Authors, no witneſſes produced, a<g ref="char:EOLhyphen"/>gainſt whom they may have reparation for the great injury and infamy caſt upon them; notwithſtanding three ſeverall Petitions of both Houſes, and the authority of two Acts of Parliament, vouched in the laſt of thoſe Petitions.</p>
+            <p>We beſeech your Majeſty to conſider in what State you are, how eaſie, and fair a way you have to happineſſe, honour greatneſſe, plenty, and ſecurity; if you will joyn with the Parliament, and your faith<g ref="char:EOLhyphen"/>full Subjects in defence of the Religion, and pub<g ref="char:EOLhyphen"/>like good of the Kingdom: This is all we expect from you, and for this we ſhall return to you, our lives, fortunes, and uttermoſt endeavours to ſupport your Majeſty, your juſt Soveraignty and power over us, but it is not words that can ſecure us in theſe our humble deſires; we cannot but too well, and ſor<g ref="char:EOLhyphen"/>rowfully remember what gratious Meſſages we had from you this Summer, when with your privitie, the bringing up the Army was in agitation; we can<g ref="char:EOLhyphen"/>not but with the like affections recall to our mindes, how not two dayes before, you gave directions for the above mentioned accuſation, and your own coming to the Commons Houſe, that Houſe recei<g ref="char:EOLhyphen"/>ved from your Majeſtie a gratious Meſſage, that you would alwayes have care of their Priviledges, as of your own Prerogative of the ſafety of their perſons; as of your own children: That which we expect, which will give us aſſurance, that you have no thought, but of peace and juſtice to your People,<pb n="13" facs="tcp:111485:7"/>muſt be ſome reall effect of your goodneſſe to them in granting thoſe things, which the preſent neceſſity of the Kingdom, do inforce us to deſire: And in the firſt place, that your Majeſtie will be gratiouſly pleaſed to put from you, thoſe wicked and miſchie<g ref="char:EOLhyphen"/>vous Counſellors, which have cauſed all theſe dan<g ref="char:EOLhyphen"/>gers and diſtractions, and to continue your own Reſidence, and the Princes neer <hi>London,</hi> and the Parliament, which we hope will be a happy begin<g ref="char:EOLhyphen"/>ning of contentment, and confidence betwixt your Majeſty, and your People, and be followed with many ſucceeding bleſſings of Honour and Greatneſſe to your Majeſty, and of ſecurity and proſperity to them.</p>
+         </div>
+         <div type="additional_reasons">
+            <head>The Additionall Reaſons.</head>
+            <p>THe Lords and Commons have commanded us to preſent unto your Majeſty this further Addi<g ref="char:EOLhyphen"/>tion to their former Declaration.</p>
+            <p>That your Majeſties return, and continuance neer the Parliament, is a matter in their apprehenſion of ſo great neceſſity and importance towards the pre<g ref="char:EOLhyphen"/>ſervation of your Royall Perſon and your King<g ref="char:EOLhyphen"/>doms, that they cannot think they have diſcharged their duties in the ſingle expreſſion of their deſire, unleſſe they adde ſome further Reaſons to back it with.</p>
+            <list>
+               <pb n="14" facs="tcp:111485:8"/>
+               <item>I. Your Majeſties abſence will cauſe men to beleeve, that it is out of deſigne to diſcourage the undertakers, and hinder the other Proviſions for raiſing money for defence of <hi>Ireland.</hi>
+               </item>
+               <item>II. It will very much hearten the Rebels there, and diſ<g ref="char:EOLhyphen"/>affected perſons in this Kingdom, as being an evidence, and effect of the jealouſie and diviſion betwixt your Majeſty, and your people.</item>
+               <item>III. That it will much weaken and withdraw the affe<g ref="char:EOLhyphen"/>ction of the Subject from your Majeſty, without which a Prince is deprived of his chiefeſt ſtrength and luſtre, and left naked to the greateſt dangers and miſeries, that can be imagined.</item>
+               <item>IIII. That it will invite and encourage the Enemies of our Religion, and the State, in forraign Parts, to the attempting, and acting of their evill deſignes and intentions towards us.</item>
+               <item>V. That it cauſeth a great interruption in the proceed<g ref="char:EOLhyphen"/>ings of Parliament.</item>
+            </list>
+            <p>Theſe conſiderations threaten ſo great danger to your Majeſties Perſon, and to all your Dominions, that as your Majeſties great Counſell, they hold it neceſſary to repre<g ref="char:EOLhyphen"/>ſent to You, this their faithfull Adviſe, that ſo whatſoever followeth, they may be ex<g ref="char:EOLhyphen"/>cuſed before God and Man.</p>
+         </div>
+      </body>
+      <back>
+         <div type="speech">
+            <pb n="15" facs="tcp:111485:8"/>
+            <head>
+               <g ref="char:leaf">❧</g> His Majeſties Speech to the Committee, the 9 of
+<hi>March,</hi> 1641. when they preſented the Declaration of both Houſes of Parliament at <hi>New-market.</hi>
+            </head>
+            <p>I Am confident that you expect not I ſhould give you a ſpeedy Anſwer to this ſtrange and unexpected Declaration. And I am ſorry (in the diſtraction of this Kingdom) you ſhould think this way of addreſſe to be more convenient, that that propoſed by My Meſ<g ref="char:EOLhyphen"/>ſage of the 20 of
+<hi>Ianuary</hi> laſt to both Houſes.</p>
+            <p>As concerning the grounds of your Fears and Jealouſies, I will take time to anſwer particularly, and doubt not but I ſhall do it to the ſatisfaction of all the World. God, in his good time, will, I hope, diſcover the ſecrets and bottoms of all Plots and Treaſons; and then I ſhall ſtand right in the eyes of all My people. In the mean time, I muſt tell you, That I rather expected a Vindicati<g ref="char:EOLhyphen"/>on for the imputation laid on me in Maſter <hi>Pyms</hi> Speech, than that any more generall Rumours and Diſcourſes ſhould get credit with you.</p>
+            <p>For My fears and doubts, I did not think they ſhould have been thought ſo groundleſſe or trivi<g ref="char:EOLhyphen"/>all, while ſo many ſeditious Pamphlets and Ser<g ref="char:EOLhyphen"/>mons are looked upon, and ſo great Tumults are remembred, unpuniſhed, uninquired into: I ſtill<pb n="16" facs="tcp:111485:9"/>confeſſe my fears, and call God to witneſſe, That they are greater for the true Proteſtant Profeſſion, My People and Laws, than for My own Rights or Safety; though I muſt tell you, I conceive that none of theſe are free from danger.</p>
+            <p>What would you have? Have I violated your Laws? Have I denyed to paſſe any one Bill for the eaſe and ſecurity of My Subjects? I do not ask you what you have done for Me.</p>
+            <p>Have any of my People been tranſport with Fears and Apprehenſions? I have offered as free and generall a Pardon, as your ſelves can de<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> All this conſidered, There is a Judgement f<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>m Heaven upon this Nation, if theſe diſtract<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s continue.</p>
+            <p>God ſo deal with Me and Mine, as all My Tgoughts and Intentions are upright for the main<g ref="char:EOLhyphen"/>tenance of the true Proteſtant Profeſſion, and for the Obſervation and Preſervation of the Laws of this Land: And, I hope, God will bleſſe and aſſiſt thoſe Laws for My preſervation.</p>
+            <p>As for the Additionall Declaration, you are to expect an Anſwer to it, when you ſhall receive the Anſwer to the Declaration it ſelf.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111485:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
